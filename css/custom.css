@@ -1,0 +1,202 @@
+.navbar-brand {
+    float: left;
+    padding: 5px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 5px;
+	width:45% !important;
+}
+
+.bg-blue{
+  background-color: #21C2F8;
+  color:white;
+}
+.p-0{
+  padding: 0;
+}
+
+.pad{
+  padding: 25px;
+}
+.coose-sec p{
+  color: white;
+}
+.choose-sec h1{
+  color: #ffffff;
+    font-weight: 700;
+    line-height: 1.2em
+}
+.choose-sec h1:after{
+  position: absolute;
+    content: '';
+    left: 36%;
+    height: 3px;
+    width: 50px;
+    bottom: 20px;
+    background-color: #ffffff;
+}
+.choose-sec ul {
+  list-style-type: disc;
+}
+
+.speciality-sec h1{
+    position: relative;
+    font-size: 34px;
+    font-weight: 700;
+    color: #242424;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    display: inline-block;
+}
+.speciality-sec h1:after{
+  position: absolute;
+  content: '';
+  left: 105%;
+  bottom: 22px;
+  width: 75px;
+  height: 4px;
+  background-color: #55b6c7;
+}
+
+@media (max-width: 768px) {
+	.navbar-brand {
+    float: left;
+    padding: 5px 15px;
+     font-size: 18px;
+    line-height: 20px;
+    /* height: 1px; */
+	width:65% !important;
+	margin-top:10px;
+}
+}
+.aboutUs {
+    position: relative !important;
+    padding: 0;
+    margin: 0;
+    z-index: 100;
+    display: block;
+    overflow: visible;
+}
+
+.map1
+{
+	width:100%;
+}
+.services_lists_boxes h4 {
+    color: #666!important;
+    font-size: 18px;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+.WhyText
+{
+
+	font-size:20px;
+}
+.txt2
+{
+	font-size:24px;
+	color:#21C2F8;
+	font-weight:800;
+}
+@media (max-width: 768px) {
+	.WhyText
+{
+
+	font-size:20px;
+	margin-left:10px;
+	line-height: 24px;
+}
+}
+.vl
+{
+	border-left:1px solid #666;
+}
+@media (max-width: 700px) {
+
+.vl
+{
+	border-left:1px solid #666;
+	display:none;
+}
+}
+.actives a
+{
+	color:#21C2F8!important;
+}
+.bannertxt
+{
+	font-size:32px!important;
+	line-height:40px;
+	text-transform:uppercase;
+	margin-left:20px;
+}
+.prfileB
+{
+	/* -webkit-box-shadow: 10px 10px 6px -6px #777;
+       -moz-box-shadow: 10px 10px 6px -6px #777;
+            box-shadow: 10px 10px 6px -6px #777; */
+			background-color:#f3f3f3;
+}
+.profileTxt
+{
+	padding-left:10px;
+}
+.profileTxt .title h2
+	{
+
+	border-bottom:1px solid #666;
+	}
+@media (max-width: 500px) {
+
+	.profileTxt
+{
+	padding-left:5px;
+	padding-top:20px;
+
+}
+	.profileTxt .title h2
+	{
+	font-size:20px!important;
+	border-bottom:1px solid #666;
+	}
+}
+@media (max-width: 500px) {
+	.bannertxt
+{
+	font-size:10px!important;
+	line-height:18px;
+	text-transform:uppercase;
+	margin-left:20px;
+}
+}
+.contact_widget ul li a
+{
+	color:#d1d1d1;
+}
+.servicesftr ul li a
+{
+	color:#d1d1d1 !important;
+	text-decoration:none;
+}
+.title h2 {
+    font-weight: bold;
+	font-size:24px;
+}
+@media (max-width: 500px)
+{
+}
+
+.hospital-col{
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 4px;
+}
+.consulting-sec .col-sm-2{
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.hospital-col p{
+  text-align: justify;
+  margin-bottom: 5px;
+}

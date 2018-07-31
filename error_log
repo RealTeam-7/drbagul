@@ -1,0 +1,59 @@
+[16-Jun-2018 06:55:58 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 06:56:42 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 06:56:44 Etc/GMT] PHP Notice:  Undefined variable: response in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 55
+[16-Jun-2018 06:57:27 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 06:57:28 Etc/GMT] PHP Notice:  Undefined variable: response in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 55
+[16-Jun-2018 06:57:42 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 07:11:26 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 07:11:31 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 07:12:24 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 53
+[16-Jun-2018 07:17:31 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 27
+[16-Jun-2018 07:17:34 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 27
+[16-Jun-2018 07:17:47 Etc/GMT] PHP Notice:  Undefined variable: remark in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 56
+[18-Jun-2018 06:50:34 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 06:56:29 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:00:07 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:00:37 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:05:54 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:06:25 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:06:49 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:09:55 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:09:55 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:09:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/dri9ixbv/public_html/drbagul.in/mail.php on line 20
+[18-Jun-2018 07:11:15 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:11:15 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:11:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/dri9ixbv/public_html/drbagul.in/mail.php on line 20
+[18-Jun-2018 07:11:26 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:11:26 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:11:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/dri9ixbv/public_html/drbagul.in/mail.php on line 20
+[18-Jun-2018 07:11:38 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:11:38 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:12:34 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:12:34 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:14:23 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:14:23 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:15:15 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:15:15 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:16:42 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:16:42 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[18-Jun-2018 07:20:33 Etc/GMT] PHP Notice:  Undefined index: Subject in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 7
+[18-Jun-2018 07:20:33 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[11-Jul-2018 10:21:05 Etc/GMT] PHP Notice:  Undefined index: mobileNumber in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 22
+[11-Jul-2018 10:21:05 Etc/GMT] PHP Notice:  Undefined index: name in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 23
+[11-Jul-2018 10:21:19 Etc/GMT] PHP Notice:  Undefined index: mobileNumber in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 22
+[11-Jul-2018 10:21:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 23
+[11-Jul-2018 10:21:40 Etc/GMT] PHP Notice:  Undefined index: mobileNumber in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 22
+[11-Jul-2018 10:21:40 Etc/GMT] PHP Notice:  Undefined index: name in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 23
+[11-Jul-2018 10:22:17 Etc/GMT] PHP Notice:  Undefined index: mobileNumber in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 22
+[11-Jul-2018 10:22:17 Etc/GMT] PHP Notice:  Undefined index: name in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 23
+[11-Jul-2018 10:47:26 Etc/GMT] PHP Notice:  Undefined index: mobileNumber in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 22
+[11-Jul-2018 10:47:26 Etc/GMT] PHP Notice:  Undefined index: name in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 23
+[16-Jul-2018 11:58:25 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/contactMail.php on line 42
+[16-Jul-2018 12:09:46 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/appointment.php on line 46
+[16-Jul-2018 12:11:42 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/dri9ixbv/public_html/drbagul.in/thankyou.php on line 2
+[16-Jul-2018 12:12:06 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/dri9ixbv/public_html/drbagul.in/thankyou.php on line 2
+[16-Jul-2018 12:14:12 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/appointment.php on line 47
+[16-Jul-2018 12:14:12 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/dri9ixbv/public_html/drbagul.in/thankyou.php on line 2
+[19-Jul-2018 09:17:33 Etc/GMT] PHP Notice:  Undefined index: mobileNumber in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 22
+[19-Jul-2018 09:17:33 Etc/GMT] PHP Notice:  Undefined index: name in /home/dri9ixbv/public_html/drbagul.in/sendSms.php on line 23
+[20-Jul-2018 09:28:55 Etc/GMT] PHP Notice:  Undefined variable: body in /home/dri9ixbv/public_html/drbagul.in/appointment.php on line 47
