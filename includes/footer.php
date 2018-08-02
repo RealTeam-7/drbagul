@@ -84,7 +84,7 @@
   });
 </script>
 <!-- CAROUSEL WIDGET -->
-<script src="js\owl.carousel.min.js"></script>
+<!-- <script src="js\owl.carousel.min.js"></script> -->
 <script>
   (function($) {
     "use strict";
@@ -106,4 +106,25 @@
       autoPlay: false
     });
   })(jQuery);
+</script>
+
+<script type="text/javascript">
+  $(function(){
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:3
+            },
+            1000:{
+                items:4
+            }
+        }
+    })
+  })
 </script>

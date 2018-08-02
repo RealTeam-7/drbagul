@@ -94,28 +94,160 @@
     <!-- END SLIDER -->
 
     <!-- ABOUT DOC -->
-    <!-- <div class="container about-sec">
-      <div class="row">
-        <div class="col-md-12">
-          <h1 class="text-center">Welcome to Dr. <span>Abhijit Bagul Surgical Care</span> </h1>
+    <section class="about-sec pad">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-4">
+            <div class="tri"></div>
+            <h1 class="text-center">Welcome to <span class="text-blue"> Dr.Abhijit Bagul </span> Surgical Care</h1>
+          </div>
+
+          <div class="col-md-8">
+            <p>I’m Dr. Abhijit Bagul MS, FIAGES, FMAS, FCPS (Surgery), Hernia Specialist & Laparoscopic Surgeon of Navi Mumbai’s Speciality Clinic dedicated for Hernia care</p>
+            <a href="about.php" class="btn btn-blue">View Profile</a>
+          </div>
+
         </div>
       </div>
-    </div> -->
+    </section>
     <!-- END ABOUT DOC -->
 
     <!-- SPECIALITY SECTION -->
-    <section class="speciality-sec">
+    <section class="speciality-sec pad">
       <div class="container">
         <h1>Our Services</h1>
         <br>
 
-        
+        <div class="owl-carousel owl-theme">
+
+            <div class="item">
+              <div class="service-box">
+                <div class="service-img">
+                  <img src="images/services/StitchlessHernia.jpg" alt="" class="img-responsive">
+                </div>
+                <div class="service-name">
+                  <p class="text-center"><b>3-D Stitchless Hernia Surgery</b></p>
+                </div>
+                <div class="service-text">
+                  <p class="text-justify">
+								  3-D Hernia Surgery is a Modern hernia surgery which involves repair through selection of uniquely engineered 3-D Implant.
+								</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="service-box">
+                <div class="service-img">
+                  <img src="images/services/octomesh.jpg" alt="" class="img-responsive">
+                </div>
+                <div class="service-name">
+                  <p class="text-center"><b>Stitchless Octomesh Surgery</b></p>
+                </div>
+                <div class="service-text">
+                  <p class="text-justify">
+								  Ventral Hernia or “Abdominal Hernia” occurs when the intestine bulges out due to a weakness of the connective tissue of the abdominal wall.
+								</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="service-box">
+                <div class="service-img">
+                  <img src="images/services/General-Surgery.jpg" alt="" class="img-responsive">
+                </div>
+                <div class="service-name">
+                  <p class="text-center"><b>General Surgery</b></p>
+                </div>
+                <div class="service-text">
+                  <p class="text-justify">
+								  We offer comprehensive and fully-integrated general surgical services providing complete evaluation, diagnosis and surgical treatment...
+								</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="service-box">
+                <div class="service-img">
+                  <img src="images/services/LaparoscopicSurgery.jpg" alt="" class="img-responsive">
+                </div>
+                <div class="service-name">
+                  <p class="text-center"><b>Laproscopic Surgery</b></p>
+                </div>
+                <div class="service-text">
+                  <p class="text-justify">
+								  Laparoscopy is a surgical procedure in which surgeon uses a special instrument called laparoscope to view and gain access to the...
+								</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="service-box">
+                <div class="service-img">
+                  <img src="images/services/painfulhaemorrhoids.jpg" alt="" class="img-responsive">
+                </div>
+                <div class="service-name">
+                  <p class="text-center"><b>Stapled Hemorrhoidectomy</b></p>
+                </div>
+                <div class="service-text">
+                  <p class="text-justify">
+                    This is a new surgical technique to return the hemorrhoids to a normal position inside the rectum.
+								</p>
+                </div>
+              </div>
+            </div>
+
+        </div>
       </div>
     </section>
     <!-- END SPECIALITY SECTION -->
 
+    <!-- SURGICAL PROCEDURES -->
+    <section class="surgical-sec pad">
+      <div class="container">
+        <h1>Surgical Procedures</h1>
+        <br><br>
+
+        <div class="row">
+
+          <div class="col-md-4">
+            <div class="video-box">
+              <video width="100%" height="225" controls="">
+								<source src="video/Indirectinguinalhernia3D.mp4" type="video/mp4">
+								<source src="mov_bbb.ogg" type="video/ogg">
+								Your browser does not support HTML5 video.
+							  </video>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="video-box">
+              <video width="100%" height="225" controls="">
+								<source src="video/Appendectomy2.mp4" type="video/mp4">
+								<source src="mov_bbb.ogg" type="video/ogg">
+								Your browser does not support HTML5 video.
+							  </video>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="video-box">
+              <iframe width="100%" height="200" src="https://www.youtube.com/embed/1rM54zq3b9Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- END SURGICAL PROCEDURES -->
+
     <!-- CHOOSE SECTION -->
     <section class="choose-sec">
+      <br><br>
       <div class="container-fluid bg-blue">
         <div class="row">
           <div class="col-md-6 p-0">
@@ -146,6 +278,61 @@
       </div>
     </section>
     <!-- END CHOOSE SECTION -->
+
+    <!-- APPOINTMENT SECTION -->
+    <section class="appoint-sec">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-1">
+            <form class="" action="index.html" method="post">
+              <div class="form-group">
+                <input type="email" name="email" value="" placeholder="Email *" class="form-control">
+              </div>
+              <div class="form-group">
+                <input type="text" name="subject" value="" placeholder="Subject *" class="form-control">
+              </div>
+              <div class="form-group">
+                <textarea name="message" rows="12" cols="80" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <br>
+              <div class="form-group">
+                <input type="submit" name="submit" value="Send" class="btn btn-blue">
+              </div>
+            </form>
+          </div>
+          <div class="col-md-4 right-side">
+            <div class="inner-box">
+                    	<div class="title">Get Appointment</div>
+                        <h3 class="text-light">You can drop message for any querry.</h3>
+                        <h3 class="text-light">Call us on</h3>
+                        <h2 class="number"> <b>1800 456 7890</b> </h2>
+                    </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- END APPOINTMENT SECTION -->
+
+    <!-- CONSULTING SEC -->
+    <section class="consulting-sec">
+      <br><br>
+      <div class="container">
+        <h1>Other Consulting Hospitals</h1>
+        <br><br>
+      </div>
+      <div class="container hospitals">
+        <div class="row">
+
+            <div class="col-md-4 text-center">
+              <p class="title">MPCT Hospital</p>
+              <p> <i class="fa fa-phone"></i> 022 2775 0000</p>
+              <p> <i class="fa fa-map-marker"></i> C7, Budhyadev Mandir Marg, Sector 4, Sanpada, Navi Mumbai, Maharashtra 400705</p>
+            </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- END CONSULTING SEC -->
 
 
   <?php include 'includes/footer.php' ?>

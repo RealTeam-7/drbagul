@@ -7,6 +7,113 @@
 	width:45% !important;
 }
 
+.btn-blue{
+  background-color: #21c2f8;
+  color:white;
+}
+.text-light{
+ color:white;
+}
+
+.appoint-sec{
+  background-image:  url('../images/appoint-bg.jpg');
+  padding: 95px 0px 95px;
+  background-position: right top;
+    background-repeat: no-repeat;
+}
+
+.appoint-sec .right-side .inner-box{
+  position: relative;
+    top: 7px;
+    border-radius: 5px;
+    padding: 45px 45px 40px;
+    background-color: #21c2f8;
+    box-shadow: 0px 0px 15px 0px rgba(204,204,204,1);
+    color:white;
+}
+.appoint-sec .right-side .inner-box .title{
+  position: relative;
+    color: #090913;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+.appoint-sec .right-side .inner-box .title h2{
+  position: relative;
+  color: #242424;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.4em;
+  padding-bottom: 20px;
+  margin-bottom: 35px;
+  color:white;
+}
+
+.appoint-sec .right-side .inner-box .title h3{
+  position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 22px;
+    color: rgba(0,0,0,0.60);
+    color:white;
+}
+
+.appoint-sec .right-side .inner-box .title .number{
+  position: relative;
+    color: #242424;
+    font-size: 34px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color:white
+}
+
+.appoint-sec form .form-control{
+    border: 0;
+    padding: 5px 0px;
+    height: 55px;
+    color: #000000;
+    background: none;
+    font-size: 14px;
+    border-bottom: 2px solid #dadada;
+    transition: all 500ms ease;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 0;
+    box-shadow: 0px 0px 0px white;
+}
+
+.text-blue{
+  color:#21c2f8;
+}
+
+.about-sec .col-md-4{
+  box-shadow: 0px 2px 5px #dcd7d7;
+  padding: 92px 44px;
+  position: relative;
+  background-color: white;
+}
+
+.about-sec .tri{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 0 200px 200px;
+  border-color: transparent transparent #21c2f8 transparent;
+  position: absolute;
+    z-index: -1;
+    right: -10px;
+    bottom: -12px;
+}
+.about-sec .col-md-4 h1{
+  font-weight: 900;
+}
+.about-sec .col-md-8{
+  padding: 90px;
+}
+
 .bg-blue{
   background-color: #21C2F8;
   color:white;
@@ -29,17 +136,22 @@
 .choose-sec h1:after{
   position: absolute;
     content: '';
-    left: 36%;
+    left: 38%;
     height: 3px;
     width: 50px;
     bottom: 20px;
     background-color: #ffffff;
 }
+.choose-sec p{
+  margin-bottom: 0
+}
 .choose-sec ul {
   list-style-type: disc;
 }
 
-.speciality-sec h1{
+.speciality-sec h1,
+.surgical-sec h1,
+.consulting-sec h1{
     position: relative;
     font-size: 34px;
     font-weight: 700;
@@ -48,7 +160,9 @@
     line-height: 1.2em;
     display: inline-block;
 }
-.speciality-sec h1:after{
+.speciality-sec h1:after,
+.surgical-sec h1:after,
+.consulting-sec h1:after{
   position: absolute;
   content: '';
   left: 105%;
@@ -57,6 +171,57 @@
   height: 4px;
   background-color: #55b6c7;
 }
+
+.speciality-sec .owl-carousel .owl-nav{
+  text-align: center;
+}
+
+.speciality-sec .owl-carousel .owl-controls .owl-prev, .owl-carousel .owl-controls .owl-next{
+  top: 50%;
+  padding: 0;
+    /* height: 6px; */
+    overflow: inherit;
+    font-size: 40px;
+    border: 2px solid #e0e0e0;
+    width: 80px;
+    display: inline-block;
+    font-size: 18px;
+}
+.speciality-sec .owl-carousel .owl-controls .owl-prev{
+  right: 52%;
+}
+.speciality-sec .owl-carousel .owl-controls .owl-next{
+  left: 52%;
+}
+.speciality-sec .owl-carousel .item .service-name{
+    color: #21C2F8;
+    font-weight: bold;
+}
+.speciality-sec .owl-carousel .item .service-name p{
+  margin-bottom: 0
+}
+
+.speciality-sec .owl-carousel .item .service-text{
+  padding: 10px;
+}
+
+.hospitals .col-md-4{
+  padding: 30px;
+    border: 1px solid #eadddd;
+    border-radius: 5px;
+}
+
+.hospitals .title{
+    color: #444444;
+    font-size: 18px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+.hospitals .title:after{
+
+}
+
 
 @media (max-width: 768px) {
 	.navbar-brand {
