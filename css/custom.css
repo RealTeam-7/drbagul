@@ -6,7 +6,9 @@
     height: 5px;
 	width:45% !important;
 }
-
+.testx{
+  color:inherit;
+}
 .btn-blue{
   background-color: #21c2f8;
   color:white;
