@@ -207,20 +207,179 @@
 
 .hospitals .col-md-4{
   padding: 30px;
-    border: 1px solid #eadddd;
-    border-radius: 5px;
+}
+.hospitals .col-md-4 .hospital-box{
+  border: 1px solid #eadddd;
+  border-radius: 5px;
 }
 
 .hospitals .title{
     color: #444444;
     font-size: 18px;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     font-weight: bold;
 }
 
 .hospitals .title:after{
+      content: '';
+      position: relative;
+      top: 15px;
+      width: 30px;
+      height: 3px;
+      background: #21C2F8;
+      display: block;
+      margin: 5px auto;
+      transition: width .3s ease-in-out;
+}
+.hospitals .fa-hospital-o{
+  position: absolute;
+    top: -2px;
+    left: 42%;
+    padding: 14px 17px;
+    background-color: #21c2f8;
+    color: white;
+    border-radius: 50%;
+    font-size: 34px;
+}
+.hospitals .title:hover:after{
+  width: 80px;
+  transition: 0.3s;
+}
+
+
+footer{
+  background-color: #141714;
+}
+footer .container{
+  padding: 60px 0px 30px;
+}
+footer p{
+  color:white;
+}
+footer h2{
+  color:white;
+  font-size: 20px;
+  padding-left: 37px;
+}
+footer h2:after{
+  position: absolute;
+    content: '';
+    left: 39px;
+    bottom: 0px;
+    width: 30px;
+    height: 2px;
+    background-color: #55b6c7;
+}
+footer ul{
+  padding-left: 69px;
+    list-style-type: square;
+}
+footer ul li a{
+  color:white
+}
+footer h4{
+  color:white;
+}
+
+footer .fa{
+  margin: 15px;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 50%;
+}
+footer .fa-facebook{
+  padding: 5px 8px;
+}
+footer .fa-google-plus{
 
 }
+footer a,
+footer a:hover{
+  color:white;
+  text-decoration: none;
+}
+.footer-bottom {
+    padding: 22px 0px;
+    background-color: #000000;
+}
+.footer-bottom p{
+  margin: 0
+}
+
+
+
+
+
+
+/* NM css */
+.text-white{
+    color: #ffffff;
+}
+/*inside banner*/
+.single-header-n{
+    background-image: url("http://www.webstrot.com/html/imedico/images/service_top_img.jpg");
+    background-size: cover;
+    padding: 70px;
+}
+.single-header-n .breadcrumb{
+    bottom: -50px;
+}
+
+/* about page */
+.about-page-n p {
+    margin-bottom: 8px;
+    text-align: justify;
+}
+.speciality-n img{
+    width: 45%;
+    margin: auto;
+}
+.first-sec{
+    background-color: #007cff;
+    padding: 35px;
+    color: #ffffff;
+}
+.first-sec p{
+    margin-bottom: 5px;
+    text-align: justify;
+}
+.first-sec .education{
+    border-right: 1px solid #ccc;
+}
+.second-sec{
+  background: #ECE9E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  padding: 60px;
+}
+.second-col{
+  padding: 20px;
+  text-align: justify;
+  border: 1px solid #ccc;
+  border-bottom: 5px solid #21c2f8;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #ffffff;
+}
+.second-col ul{
+  padding-left: 20px;
+}
+.second-col li{
+  list-style-type: circle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media (max-width: 768px) {

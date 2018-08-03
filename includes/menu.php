@@ -37,22 +37,22 @@
                       <li class="actives"><a href="index.htm" >Home </a>
 
                       </li><!-- end standard drop down -->
-                       <li><a href="about.htm">About Us</a></li>
-                       <li><a href="profile.htm">Profile</a></li>
+                       <li><a href="about.php">About Us</a></li>
+                       <li><a href="profile.php">Profile</a></li>
 
                       <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Services </a>
                           <ul class="dropdown-menu" role="menu">
-              <li><a href="3dstichless.htm">3-D Stitchless Hernia Surgery </a></li>
-              <li><a href="stichlessoctomesh.htm">Stitchless Octomesh Surgery</a></li>
-              <li><a href="generalsurgery.htm">General Surgery	</a></li>
-              <li><a href="laparoscopic.htm">Laparoscopic Surgery</a></li>
-              <li><a href="StapledHemorrhoidectomy.htm">Stapled Hemorrhoidectomy</a></li>
+              <li><a href="3dstichless.php">3-D Stitchless Hernia Surgery </a></li>
+              <li><a href="stichlessoctomesh.php">Stitchless Octomesh Surgery</a></li>
+              <li><a href="generalsurgery.php">General Surgery	</a></li>
+              <li><a href="laparoscopic.php">Laparoscopic Surgery</a></li>
+              <li><a href="StapledHemorrhoidectomy.php">Stapled Hemorrhoidectomy</a></li>
 
                           </ul><!-- end dropdown-menu -->
                       </li><!-- end standard drop down -->
-          <li><a href="gallery.htm">Gallery</a></li>
+          <li><a href="gallery.php">Gallery</a></li>
 
-                      <li class="active"><a href="contact.htm">Contact</a></li>
+                      <li class="active"><a href="contact.php">Contact</a></li>
                      <!--  <li class="last_item"><a href="shop.html"><i class="fa fa-shopping-cart"></i></a></li> -->
         </ul><!-- end navbar-nav -->
       </div><!-- #navbar-collapse-1 -->

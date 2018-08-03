@@ -314,24 +314,7 @@
     <!-- END APPOINTMENT SECTION -->
 
     <!-- CONSULTING SEC -->
-    <section class="consulting-sec">
-      <br><br>
-      <div class="container">
-        <h1>Other Consulting Hospitals</h1>
-        <br><br>
-      </div>
-      <div class="container hospitals">
-        <div class="row">
-
-            <div class="col-md-4 text-center">
-              <p class="title">MPCT Hospital</p>
-              <p> <i class="fa fa-phone"></i> 022 2775 0000</p>
-              <p> <i class="fa fa-map-marker"></i> C7, Budhyadev Mandir Marg, Sector 4, Sanpada, Navi Mumbai, Maharashtra 400705</p>
-            </div>
-
-        </div>
-      </div>
-    </section>
+    <?php include 'includes/consulting.php' ?>
     <!-- END CONSULTING SEC -->
 
 
